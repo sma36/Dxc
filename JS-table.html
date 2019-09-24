@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Tabele using JS</title>
+    
+</head>
+<body>
+    <table id="tb1" border="1px">
+            <script>
+                    var t = document.getElementById('tb1')
+            
+                    var tr1 = document.createElement('tr')
+                    t.appendChild(tr1)
+            
+                    var td11 =document.createElement('td')
+                    td11.innerHTML='book'
+                    tr1.appendChild(td11)
+            
+                    var td12 =document.createElement('td')
+                    td12.innerHTML='price'
+                    tr1.appendChild(td12)
+            
+                    var tr2 = document.createElement('tr')
+                    t.appendChild(tr2)
+            
+                    var td21 =document.createElement('td')
+                    td21.innerHTML='A'
+                    tr2.appendChild(td21)
+            
+                    var td22 =document.createElement('td')
+                    td22.innerHTML='546'
+                    tr2.appendChild(td22)
+            
+                    var tr3 = document.createElement('tr')
+                    t.appendChild(tr3)
+            
+                    var td31 =document.createElement('td')
+                    td31.innerHTML='B'
+                    tr3.appendChild(td31)
+            
+                    var td32 =document.createElement('td')
+                    td32.innerHTML='446'
+                    tr3.appendChild(td32)
+            
+                </script>
+    </table>
+</body>
+</html>
