@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="X-UA-Compatible" content="ie=edge">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/css/bootstrap.min.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.0-11/css/all.min.css">
+<link rel="stylesheet" href="style.css">
+<title>Star Pattern</title>
+</head>
+<body>
+    <script>
+        var n =Number(prompt('Enter a no. of rows'))
+        for(i=0;i<n;i++)
+        {
+            for(j=0;j<n-i-1;j++)
+            {
+                document.write('<h1 style="display:inline;">&nbsp;</h1>')
+            }
+            for(k=0;k<i+1;k++){
+                document.write('<h1 style="display:inline">* </h1>')
+            }
+            document.write('<br>')
+        }
+            
+        
+    </script>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/js/bootstrap.min.js"></script>
+</body>
+</html>
