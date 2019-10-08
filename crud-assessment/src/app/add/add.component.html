@@ -1,0 +1,25 @@
+<header>
+    <div class="container">
+        <nav>
+        <ul>
+            <li><a routerLink='/'>Department List</a></li>
+            <li><a routerLink='/add'>Add Department</a></li>
+        </ul>
+    </nav>
+    </div>
+</header>
+<br><br><br><br>
+
+<div class="container">
+    <form #updateForm='ngForm' (ngSubmit)='saveForm()' style="border: 0.5px solid black; width: 400px; height:400px; margin-bottom: 10px;padding: 30px;">
+        <label for="id">Id</label><br>
+        <input [(ngModel)]='d.id' type="number" id="id" name='id'><br><br>
+        <label for="name">Name</label><br>
+        <input [(ngModel)]='d.name'type="text" id="name" name='name'><br><br>
+        <label for="name">GroupName</label><br>
+        <input [(ngModel)]='d.groupName'type="text" id="groupName" name='groupName'><br><br>
+        <!-- <label for="name">Date</label><br>
+        <input [(ngModel)]='d.date'type="date" id="date" name='date'><br><br><br> -->
+        <input type="submit" value="Submit" >            
+    </form>
+</div>
