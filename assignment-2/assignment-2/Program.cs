@@ -23,13 +23,14 @@ namespace assignment_2
             account[2].Details("Mcgregor", 333, 876544);
             account[3].Details("lungi", 444, 700);
 
-            int id, index=-1, option, newAccountIndex=4, choice, choice2;
+            int id, index, option, newAccountIndex=4, choice, choice2;
             string newName;
             double newBalance;
 
-            
 
-    up:     Console.WriteLine("\nChoose Option:\n" +
+
+        up: index = -1;
+            Console.WriteLine("\nChoose Option:\n" +
                 "1. Existing Customer\n2. New Customer\n0. Exit\n");
             option=int.Parse(Console.ReadLine());
 
@@ -38,10 +39,10 @@ namespace assignment_2
                 case 0: goto end;
 
                 case 1:
-         up2:       Console.Write("Enter your Account Id :\t");
+    up2:            Console.Write("Enter your Account Id :\t");
                     id = int.Parse(Console.ReadLine());
 
-                    for (int i = 0; i < account.Length; i++)
+                    for (int i = 0; i < newAccountIndex; i++)
                     {
                         if (account[i].checkId(id))
                         {
