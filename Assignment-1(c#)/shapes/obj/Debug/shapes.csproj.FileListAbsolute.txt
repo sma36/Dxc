@@ -1,0 +1,6 @@
+C:\Users\sma36\Documents\Training\c#\Assignment\shapes\bin\Debug\shapes.exe.config
+C:\Users\sma36\Documents\Training\c#\Assignment\shapes\bin\Debug\shapes.exe
+C:\Users\sma36\Documents\Training\c#\Assignment\shapes\bin\Debug\shapes.pdb
+C:\Users\sma36\Documents\Training\c#\Assignment\shapes\obj\Debug\shapes.csprojAssemblyReference.cache
+C:\Users\sma36\Documents\Training\c#\Assignment\shapes\obj\Debug\shapes.exe
+C:\Users\sma36\Documents\Training\c#\Assignment\shapes\obj\Debug\shapes.pdb

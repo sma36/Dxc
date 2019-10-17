@@ -1,0 +1,6 @@
+C:\Users\sma36\Documents\Training\c#\Assignment\billing\bin\Debug\billing.exe.config
+C:\Users\sma36\Documents\Training\c#\Assignment\billing\bin\Debug\billing.exe
+C:\Users\sma36\Documents\Training\c#\Assignment\billing\bin\Debug\billing.pdb
+C:\Users\sma36\Documents\Training\c#\Assignment\billing\obj\Debug\billing.exe
+C:\Users\sma36\Documents\Training\c#\Assignment\billing\obj\Debug\billing.pdb
+C:\Users\sma36\Documents\Training\c#\Assignment\billing\obj\Debug\billing.csprojAssemblyReference.cache
