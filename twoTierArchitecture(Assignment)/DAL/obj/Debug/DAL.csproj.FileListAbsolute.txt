@@ -1,0 +1,5 @@
+C:\Users\sma36\Documents\Training\c#\twoTierArchitecture\DAL\bin\Debug\DAL.dll
+C:\Users\sma36\Documents\Training\c#\twoTierArchitecture\DAL\bin\Debug\DAL.pdb
+C:\Users\sma36\Documents\Training\c#\twoTierArchitecture\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\sma36\Documents\Training\c#\twoTierArchitecture\DAL\obj\Debug\DAL.dll
+C:\Users\sma36\Documents\Training\c#\twoTierArchitecture\DAL\obj\Debug\DAL.pdb

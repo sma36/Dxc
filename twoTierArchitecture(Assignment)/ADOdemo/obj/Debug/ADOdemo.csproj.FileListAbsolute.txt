@@ -1,0 +1,9 @@
+C:\Users\sma36\Documents\Training\c#\twoTierArchitecture\ADOdemo\bin\Debug\ADOdemo.exe.config
+C:\Users\sma36\Documents\Training\c#\twoTierArchitecture\ADOdemo\bin\Debug\ADOdemo.exe
+C:\Users\sma36\Documents\Training\c#\twoTierArchitecture\ADOdemo\bin\Debug\ADOdemo.pdb
+C:\Users\sma36\Documents\Training\c#\twoTierArchitecture\ADOdemo\bin\Debug\DAL.dll
+C:\Users\sma36\Documents\Training\c#\twoTierArchitecture\ADOdemo\bin\Debug\DAL.pdb
+C:\Users\sma36\Documents\Training\c#\twoTierArchitecture\ADOdemo\obj\Debug\ADOdemo.csprojAssemblyReference.cache
+C:\Users\sma36\Documents\Training\c#\twoTierArchitecture\ADOdemo\obj\Debug\ADOdemo.csproj.CopyComplete
+C:\Users\sma36\Documents\Training\c#\twoTierArchitecture\ADOdemo\obj\Debug\ADOdemo.exe
+C:\Users\sma36\Documents\Training\c#\twoTierArchitecture\ADOdemo\obj\Debug\ADOdemo.pdb
