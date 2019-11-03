@@ -1,0 +1,6 @@
+C:\Users\sma36\Documents\Training\c#\ADO-Assessment\ADO-Assessment\bin\Debug\ADO-Assessment.exe.config
+C:\Users\sma36\Documents\Training\c#\ADO-Assessment\ADO-Assessment\bin\Debug\ADO-Assessment.exe
+C:\Users\sma36\Documents\Training\c#\ADO-Assessment\ADO-Assessment\bin\Debug\ADO-Assessment.pdb
+C:\Users\sma36\Documents\Training\c#\ADO-Assessment\ADO-Assessment\obj\Debug\ADO-Assessment.csprojAssemblyReference.cache
+C:\Users\sma36\Documents\Training\c#\ADO-Assessment\ADO-Assessment\obj\Debug\ADO-Assessment.exe
+C:\Users\sma36\Documents\Training\c#\ADO-Assessment\ADO-Assessment\obj\Debug\ADO-Assessment.pdb
