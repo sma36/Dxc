@@ -1,0 +1,11 @@
+C:\Users\sma36\Documents\Training\c#\Entity Assessment\Entity Assessment\bin\Debug\Entity Assessment.exe.config
+C:\Users\sma36\Documents\Training\c#\Entity Assessment\Entity Assessment\bin\Debug\Entity Assessment.exe
+C:\Users\sma36\Documents\Training\c#\Entity Assessment\Entity Assessment\bin\Debug\Entity Assessment.pdb
+C:\Users\sma36\Documents\Training\c#\Entity Assessment\Entity Assessment\bin\Debug\EntityFramework.dll
+C:\Users\sma36\Documents\Training\c#\Entity Assessment\Entity Assessment\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\sma36\Documents\Training\c#\Entity Assessment\Entity Assessment\bin\Debug\EntityFramework.xml
+C:\Users\sma36\Documents\Training\c#\Entity Assessment\Entity Assessment\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\sma36\Documents\Training\c#\Entity Assessment\Entity Assessment\obj\Debug\Entity Assessment.csprojAssemblyReference.cache
+C:\Users\sma36\Documents\Training\c#\Entity Assessment\Entity Assessment\obj\Debug\Entity Assessment.csproj.CopyComplete
+C:\Users\sma36\Documents\Training\c#\Entity Assessment\Entity Assessment\obj\Debug\Entity Assessment.exe
+C:\Users\sma36\Documents\Training\c#\Entity Assessment\Entity Assessment\obj\Debug\Entity Assessment.pdb
